@@ -2,6 +2,7 @@
 import './App.css'
 import Footer from './component/Footer'
 import Header from './component/Header'
+import Wishlist from './component/wishlist'
 
 function App() {
   
@@ -10,6 +11,7 @@ function App() {
     <>
       <Header/>
       <Footer/>
+      <Wishlist/>
     </>
   )
 }
